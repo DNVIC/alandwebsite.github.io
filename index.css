@@ -1,0 +1,31 @@
+.topbar {
+  overflow: hidden;
+  background-color: #232323
+}
+.topbar a {
+  float: left;
+  color: #DCDCDC;
+  padding: 14px 15px;
+  
+  
+}
+.topbar a:hover {
+  background-color: #787878;
+}
+.topbar a.active {
+  background-color: #78DC78;
+}
+.welcome {
+  text-align: center;
+  overflow: hidden;
+  padding-top: 150px;
+  color: gold;
+}
+.heading {
+  font-size: 30;
+}
+body {
+  border-style: solid;
+  border-color: #D22131;
+  border-width: 10px;
+}
