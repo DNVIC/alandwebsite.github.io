@@ -18,15 +18,35 @@
 .welcome {
   text-align: center;
   overflow: hidden;
-  padding-top: 150px;
-  color: gold;
+  color: #0A3B98;
 }
 .heading {
-  font-size: 30;
+  font-size: 100;
+  padding-top: 50px;
 }
+.heading2 {
+  font-size: 30;
+  padding-top: 0px;
+}
+.centertext {
+  text-align: center
+}
+button {
+  padding: 20px 15px;
+  background-color: gold;
+  border-style: solid;
+  border-color: #D22131;
+  border-width: 3px;
+  transition-duration: 0.6s;
+}
+
+button:hover {
+  background-color: #DDDDDD;
+  border-color: grey;
+}
+
 body {
   border-style: solid;
   border-color: #D22131;
   border-width: 10px;
-  font-family: Arial;
 }
