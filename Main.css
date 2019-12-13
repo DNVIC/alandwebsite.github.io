@@ -10,7 +10,7 @@
 .lefttopbar:hover {
   background-color: #787878;
 }
-.lefttopbar.active {
+.active {
   background-color: #0053A5;
 }
 .righttopbar {
@@ -23,10 +23,7 @@
   background-color: #787878;
   
 }
-.righttopbar.active {
-  background-color: #0053A5;
-  
-}
+
 
 .centerimage {
   
