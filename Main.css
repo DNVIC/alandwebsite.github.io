@@ -88,6 +88,10 @@ img.flag {
   width: 75%;
   float: left;
 }
+.otherr {
+  width: 25%;
+  float: left;
+}
 p {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -109,4 +113,8 @@ a {
 }
 #reli {
   padding-left: 73px;
+}
+.rightimg {
+  width: 100px;
+  height: auto;
 }
